@@ -3,10 +3,9 @@
 <p align="center">
   <em>Automation Addict | Ethical Hacker | Penetration Tester —> EOF 💻</em>
 </p>
----
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF9F&vCenter=true&width=441&lines=Hello+World!+%F0%9F%91%8B;I+am+Shahidxt+%F0%9F%94%91;Python+%7C+Automation+%7C+CyberSec+;Let's+Break+Things...+Securely!+%F0%9F%92%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF9F&vCenter=true&width=441&lines=Hello+World!+%F0%9F%91%8B;I+am+Shahidxt+%F0%9F%94%91;Let's+Break+Things...+Securely!+%F0%9F%92%A5" alt="Typing SVG" />
 </div>
 
 ---
