@@ -13,7 +13,7 @@
 ### 🧠 ` whoami `
 
 ```bash
-┌──(SHAHID㉿XT)-[~/irogan]
+┌──(SHAHID㉿XT)-[~/bOkA]
 └─$ python3 mylife.py --profile
 
 > 🔭 Working on: Advanced Automation Scripts
