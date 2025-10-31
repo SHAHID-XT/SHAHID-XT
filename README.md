@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there, I'm <span style="color:#00ff9f;">Shahid-Xt</span> 👨‍💻</h1>
 <p align="center">
-  <em>Ethical Hacker | Penetration Tester | Automation Addict | Tech Innovator | 2>/dev/null </em>
+  <em>Ethical Hacker | Penetration Tester | Automation Addict | Tech Innovator 2>/dev/null </em>
 </p>
 
 <div align="center">
