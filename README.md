@@ -20,7 +20,6 @@
 > 💼 Freelancer | Experienced Bot Developer  
 > 🎯 Focused on building custom offensive security tools  
 > 🚀 Passionate about creating innovative, impactful solutions  
-> 📡 Fun Fact: I void warranties by pushing tech limits  
 ````
 
 ---
