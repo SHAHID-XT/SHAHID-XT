@@ -15,17 +15,17 @@
 ```bash
 ┌──(SHAHID㉿XT)-[~/bOkA]
 └─$ python3 mylife.py --profile
-
-> 🔭 Working on: Advanced Automation Scripts
-> 🧠 Learning: Pentesting, VAPT, Bug Bounties
-> 💼 Fiverr Freelancer | Bot Developer
-> 🎯 Goals: Build custom offensive security tools
-> 📡 Fun Fact: I void warranties
+> 🔭 Working on: Advanced Automation & Automation Scripts  
+> 🧠 Currently learning: Penetration Testing, VAPT, Bug Bounties  
+> 💼 Freelancer | Experienced Bot Developer  
+> 🎯 Focused on building custom offensive security tools  
+> 🚀 Passionate about creating innovative, impactful solutions  
+> 📡 Fun Fact: I void warranties by pushing tech limits  
 ````
 
 ---
 
-### 🧰 Languages
+###  Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
