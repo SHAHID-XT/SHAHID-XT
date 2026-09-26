@@ -8,7 +8,7 @@
 </p>
 
 
-### `whoami 2>/dev//null`
+### `whoami 2>/dev/null`
 
 ```bash
 ┌──(b㉿ka)-[~/]
@@ -22,7 +22,7 @@
 ```
 
 
-### `A little about me 2>/dev//null`
+### `A little about me 2>/dev/null`
 
 I'm into figuring out how things work, especially when they're not supposed to.
 
